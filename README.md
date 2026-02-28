@@ -15,6 +15,6 @@ Known Issues & Limitations
 Sentiment Overlap (Sadness misclassified as Joy): The model currently experiences occasional difficulties distinguishing between sadness and joy. This misclassification often happens when text contains complex phrasing, sarcasm, or ambiguous vocabulary (such as "tears" which can belong to both "tears of joy" and "crying tears").
 
 
-#Test Accuracy: 0.89
+# Test Accuracy: 0.89
 
-#Train Accuracy: 0.966171875
+# Train Accuracy: 0.966171875
